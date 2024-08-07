@@ -1,0 +1,35 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output directory
+build/
+
+# Ignore package lock file
+package-lock.json
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore TypeScript compiled files
+*.tsbuildinfo
+
+# Ignore npm debug files
+npm-debug.log*
+
+# Ignore yarn lock file if using yarn
+yarn.lock
+
+# Ignore .idea folder for JetBrains IDEs
+.idea/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore dist folder if using it
+dist/
